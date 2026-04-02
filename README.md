@@ -23,4 +23,4 @@ Currently building real-world automation projects with n8n and AI.
 ## 📊 Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarorrodri&theme=black-ice)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarorrodri&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarorrodri&layout=compact)
