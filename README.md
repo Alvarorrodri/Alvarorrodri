@@ -1,25 +1,36 @@
 # Hey, I'm Álvaro! 👋
 
-Passionate about AI automation and Low-Code development. 
-Currently building real-world automation projects with n8n and AI.
+Low-Code Developer & AI Automation specialist. I build real-world AI solutions combining LangChain, RAG, LangGraph and n8n — deployed in production on my own homelab server.
+
+🌐 Portfolio: [alvarorodrigo.dev](https://alvarorodrigo.dev)
 
 ## 🛠 Skills
 
-**Low-Code & Automation**
-- n8n, OutSystems, Appian
+**AI & Automation**
+- LangChain, LangGraph, RAG, ChromaDB, HuggingFace Embeddings
+- Groq (Llama 3), Prompt Engineering, AI Agents
+- n8n, FastAPI, Python
 
-**AI & APIs**
-- Groq (Llama 3.3), Gemini, Gmail API, Telegram Bot API
+**Low-Code**
+- OutSystems, Appian
 
-**Languages & Tech**
-- Java, JavaScript, HTML, CSS, SQL
+**Backend & Cloud**
+- Docker, Linux, Git, SQL, AWS
+- Cloudflare Tunnel, Caddy, CI/CD with GitHub Actions
 
 ## 🚀 Projects
 
-- 📧 [Email Autoresponder with AI](https://github.com/Alvarorrodri/email-autoresponder-ai) — Gmail + Groq + PDF reading
-- 📰 [Tech News Bot](https://github.com/Alvarorrodri/news-bot-telegram-n8n) — RSS + Groq + Telegram
+- 🤖 [ChatBot RAG](https://github.com/Alvarorrodri/ChatBot-RAG) — LangChain + LangGraph + ChromaDB + Groq. Multi-agent RAG chatbot with classifier node. Deployed at [alvarorodrigo.dev](https://alvarorodrigo.dev)
+- 📧 [Email Autoresponder with AI](https://github.com/Alvarorrodri/email-autoresponder-n8n) — Gmail + Groq + PDF reading
 - 🤖 [CV Analyzer Bot](https://github.com/Alvarorrodri/cv-analyzer-bot) — Telegram + Groq + PDF analysis
+- 📰 [Tech News Bot](https://github.com/Alvarorrodri/news-bot-telegram-n8n) — RSS + Groq + Telegram
+- 🍽️ [Restaurant Booking Bot](https://github.com/Alvarorrodri/restaurante-bot-n8n) — Telegram + AI Agent + Groq
+- 🌱 [TerraLog](https://github.com/Alvarorrodri/TerraLog) — Flutter + Supabase (Auth, PostgreSQL, RLS, Storage)
 
 ## 📊 Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarorrodri&theme=black-ice)](https://git.io/streak-stats)
+[
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarorrodri&theme=black-ice)
+
+](https://git.io/streak-stats)
